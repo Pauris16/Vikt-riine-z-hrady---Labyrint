@@ -1,0 +1,41 @@
+DÔLEŽITÉ - PREČÍTAJTE SI TOTO
+=============================
+
+Tento sandbox (moje pracovné prostredie) nemá prístup na internet na
+sťahovanie binárnych súborov, takže som nemohol priamo stiahnuť fotografie
+do tohto priečinka. index.html preto odkazuje na súbory s týmito názvami:
+
+  images/hero-labyrinth.jpg   -> hlavná fotografia labyrintu (hero pozadie + galéria)
+  images/garden-path.jpg      -> cestička v botanickej záhrade
+  images/castle-walk.jpg      -> prechádzka pri hradných múroch
+  images/garden-bench.jpg     -> lavička na oddych
+
+Ako to dokončiť (2 minúty):
+1. Stiahnite si tieto 4 fotografie z Unsplash (voľná licencia, komerčne
+   použiteľné, bez nutnosti uvádzať autora - Unsplash License):
+
+   hero-labyrinth.jpg:
+   https://images.unsplash.com/photo-1547223487-c0bbe3535bb7?auto=format&fit=crop&w=2200&q=80
+
+   garden-path.jpg:
+   https://images.unsplash.com/photo-1756349638364-3598a17848e5?auto=format&fit=crop&w=1600&q=80
+
+   castle-walk.jpg:
+   https://images.unsplash.com/photo-1705492723628-5c28db7c352b?auto=format&fit=crop&w=1600&q=80
+
+   garden-bench.jpg:
+   https://images.unsplash.com/photo-1664893893555-3506aeaf0085?auto=format&fit=crop&w=1600&q=80
+
+2. Uložte ich do tohto priečinka (/images) presne pod uvedenými názvami.
+3. Otvorte index.html - stránka bude fungovať aj úplne offline.
+
+POZNÁMKA K REÁLNYM FOTKÁM ATRAKCIE:
+Tieto fotografie sú kvalitné, voľne licencované ilustračné zábery (hedge maze,
+botanická záhrada, hradné múry, lavička v parku) - NIE sú to skutočné fotky
+Viktóriiných záhrad v Starej Ľubovni. Skutočné fotografie tejto konkrétnej
+atrakcie sú vlastníctvom prevádzkovateľa (Arsido, s.r.o. / viktoriinezahrady.sk)
+a sú chránené autorským právom, takže som ich nemohol bez súhlasu
+prevziať a šíriť. Ak máte licenciu alebo súhlas s použitím ich vlastných
+fotografií, jednoducho nahraďte súbory v tomto priečinku vlastnými reálnymi
+fotkami labyrintu a záhrad - kód sa meniť nemusí, stačí zachovať názvy
+súborov vyššie (alebo upraviť cesty v index.html).
